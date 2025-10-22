@@ -12,8 +12,7 @@
 * [git installation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ### скачать attlassian-agent-use-in-JAVA_OPTS.jar и atlassian-agent-license-generator.jar
-* [Licence Generator](https://drive.google.com/drive/folders/1z1ImzAvd3FngSJq6AiD6be_kDwYDD1RA?usp=drive_link)
-или скачать rar архив тут
+* скачать confluence.rar из публикации
 
 ### репозиторий для клонирования
     git clone https://github.com/Fly-space/confluence-crack
